@@ -1,0 +1,8 @@
+# settings
+.vscode
+
+# virtual environment
+.venv
+
+# files used to explore the code and try things out
+playground*
