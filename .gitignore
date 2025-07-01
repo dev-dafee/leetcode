@@ -6,3 +6,14 @@
 
 # files used to explore the code and try things out
 playground*
+
+# ignore object files
+*.o
+
+# ignore executables
+*.exe
+a.out
+
+# ignore editor backups
+*.swp
+*.bak
